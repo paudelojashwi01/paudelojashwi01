@@ -26,7 +26,7 @@ Classification model predicting review sentiment on 89,000+ game records. Built 
 
 ## 💼 Experience
 
-**IT Support Intern** — CUNY Research Foundation / NYC Department of Education (Sep 2025 – Jun 2026)
+**IT Support Intern** — CUNY Research Foundation / NYC Department of Education (Dec 2024 – Jun 2026)
 - Resolved 50+ technical issues with 95% success rate within SLA timelines
 - Analyzed IT infrastructure gaps and implemented solutions for operational efficiency
 - Supported data systems and communicated technical findings to non-technical stakeholders
