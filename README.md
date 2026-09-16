@@ -19,11 +19,6 @@ End-to-end ELT pipeline ingesting 2 large-scale NYC Open Data datasets via Socra
 
 **Tech:** Python, SQL, dbt, Google BigQuery, Cloud Functions, Looker Studio
 
-### [Steam Games Review Analysis](https://github.com/paudelojashwi01/Exploring-the-Correlation-Between-Game-Attributes-and-Review-Ratios-of-Steam-Games)
-Classification model predicting review sentiment on 89,000+ game records. Built with Python, Pandas, PySpark, and Scikit-learn to identify key product attributes influencing player satisfaction.
-
-**Tech:** Python, PySpark, Pandas, Scikit-learn, Machine Learning
-
 ## 📚 Education
 
 **Master of Science in Information Systems** — Baruch College (GPA: 3.78)  
